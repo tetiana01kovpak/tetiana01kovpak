@@ -49,6 +49,7 @@ Built with **HTML**, **CSS**, following a mobile-first approach and focusing on 
 🔗 [**GitHub Repository**](https://github.com/tetiana01kovpak/FlowBloom)
 🔗 [**Live Demo**](https://alisapagan.github.io/FlowBloom/)
 
+---
 
 ### 📝 NoteHub
 
