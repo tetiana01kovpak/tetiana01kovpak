@@ -50,6 +50,13 @@ Built with **HTML**, **CSS**, following a mobile-first approach and focusing on 
 🔗 [**Live Demo**](https://alisapagan.github.io/FlowBloom/)
 
 
+### 📝 NoteHub
+
+Full-stack application for creating, editing, deleting, and filtering personal notes with persistent data storage with **Node JS** on **Render**.
+
+🔗 [**GitHub Repository**](https://github.com/tetiana01kovpak/nodejs-hw)
+🔗 [**Live Demo**](https://nodejs-hw-comi.onrender.com/)
+
 ---
 
 ## 🗣️ Languages
