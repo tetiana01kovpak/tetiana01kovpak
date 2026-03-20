@@ -14,7 +14,7 @@ Currently looking for a Fullstack Developer position where I can bring both my d
 | **Area** | **Skills & Tools** |
 | -------- | ------------------ |
 | **Frontend** | React \| Next.js \| Angular \| TypeScript \| JavaScript (ES6+) \| HTML5 \| CSS3 \| SASS |
-| **3D & Visual** | Three.js \| Blender \| WebGL |
+| **3D & Visual** | Three.js \| WebGL |
 | **Backend** | Node.js \| REST API \| Docker |
 | **Databases** | PostgreSQL \| MongoDB |
 | **Data & API** | REST API \| Axios \| Vite |
