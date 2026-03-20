@@ -39,6 +39,15 @@ Built with **JavaScript**, **Vite**, **Axios**, and **Swiper**. Implemented cate
 🔗 [**GitHub Repository**](https://github.com/tetiana01kovpak/QuantumJS)
 🔗 [**Live Demo**](https://tetiana01kovpak.github.io/QuantumJS/)
 
+### 🪑 FlowBloom
+
+Responsive landing page for a yoga studio.
+Built with **HTML**, **CSS**, following a mobile-first approach and focusing on clean layout and user experience.
+
+🔗 [**GitHub Repository**](https://github.com/tetiana01kovpak/FlowBloom)
+🔗 [**Live Demo**](https://alisapagan.github.io/FlowBloom/)
+
+
 ---
 
 ## 🗣️ Languages
