@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Tetiana Kovpak
-# Fullstack Developer
+# Junior Fullstack Developer
 
-Fullstack Developer who combines strong technical skills with hands-on business experience. I build polished, responsive web applications with **React** and **Node.js** and bring a rare edge in **3D web experiences** using **Three.js** and **Blender**.
+Junior Fullstack Developer who combines strong technical skills with hands-on business experience. I build polished, responsive web applications with **React** and **Node.js** and bring a rare edge in **3D web experiences** using **Three.js** and **Blender**.
 
 I've successfully managed my own e-commerce business and delivered commercial 3D work for clients — meaning I understand not just the code, but the product and the customer behind it. Multilingual, self-driven, and experienced in **Agile/Scrum** workflows.
 
@@ -39,7 +39,9 @@ Built with **JavaScript**, **Vite**, **Axios**, and **Swiper**. Implemented cate
 🔗 [**GitHub Repository**](https://github.com/tetiana01kovpak/QuantumJS)
 🔗 [**Live Demo**](https://tetiana01kovpak.github.io/QuantumJS/)
 
-### 🪑 FlowBloom
+---
+
+### 🧘‍♀️ FlowBloom
 
 Responsive landing page for a yoga studio.
 Built with **HTML**, **CSS**, following a mobile-first approach and focusing on clean layout and user experience.
