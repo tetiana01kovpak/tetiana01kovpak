@@ -37,23 +37,7 @@ E-commerce furniture store **SPA** with product catalog, ordering system, and cu
 Built with **JavaScript**, **Vite**, **Axios**, and **Swiper**. Implemented category filtering, pagination, modals, REST API integration, and responsive design across all breakpoints. Team project using **Agile** methodologies.
 
 🔗 [**GitHub Repository**](https://github.com/tetiana01kovpak/QuantumJS)
-
----
-
-## 💼 Work Experience
-
-**BeHealthy, Kyiv** — Webmaster & Store Manager *(2018 – Present)*  
-Managed a WordPress-based health supplements store. Increased online sales by **83%** through website optimization and improved product presentation.
-
-**Taniko j.d.o.o, Rijeka** — Freelance 3D Artist *(2022 – Present)*  
-Running own company delivering 3D product models, animations, and visual content for client websites using **Blender**, **After Effects**, and **DaVinci**.
-
----
-
-## 🎓 Education
-
-**IT School GoIT** — Fullstack Developer *(2025 – 2026)*  
-**Interregional Academy of Personal Management** — Master's degree, International Economics & Finance *(2010 – 2014)*
+🔗 [**Live Demo**](https://tetiana01kovpak.github.io/QuantumJS/)
 
 ---
 
