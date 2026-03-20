@@ -1,16 +1,75 @@
-## Hi there 👋
+## 👋 Hi, I'm Tetiana Kovpak
+# Fullstack Developer
 
-<!--
-**tetiana01kovpak/tetiana01kovpak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer who combines strong technical skills with hands-on business experience. I build polished, responsive web applications with **React** and **Node.js** and bring a rare edge in **3D web experiences** using **Three.js** and **Blender**.
 
-Here are some ideas to get you started:
+I've successfully managed my own e-commerce business and delivered commercial 3D work for clients — meaning I understand not just the code, but the product and the customer behind it. Multilingual, self-driven, and experienced in **Agile/Scrum** workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently looking for a Fullstack Developer position where I can bring both my development skills and business mindset to build products that make an impact.
+
+---
+
+## 🛠 Tech Stack
+
+| **Area** | **Skills & Tools** |
+| -------- | ------------------ |
+| **Frontend** | React \| Next.js \| Angular \| TypeScript \| JavaScript (ES6+) \| HTML5 \| CSS3 \| SASS |
+| **3D & Visual** | Three.js \| Blender \| WebGL |
+| **Backend** | Node.js \| REST API \| Docker |
+| **Databases** | PostgreSQL \| MongoDB |
+| **Data & API** | REST API \| Axios \| Vite |
+| **Tools & DevOps** | Git \| GitHub Actions (CI/CD) \| Docker \| Grafana \| Jira \| WordPress |
+
+---
+
+## 💻 Featured Projects
+
+### 🌱 Habbit Garden
+Interactive **3D habit tracker** where each habit grows as a unique procedurally generated plant in a WebGL garden scene.  
+Built with **Three.js**, **JavaScript**, and **Vite**. Features procedural generation of five plant types, dynamic lighting, raycasting interaction, and streak-based visual feedback. Deployed via **GitHub Actions** CI/CD.
+
+🔗 [**GitHub Repository**](https://github.com/tetiana01kovpak/habbit-garden)
+
+---
+
+### 🪑 Quantum JS
+E-commerce furniture store **SPA** with product catalog, ordering system, and customer reviews.  
+Built with **JavaScript**, **Vite**, **Axios**, and **Swiper**. Implemented category filtering, pagination, modals, REST API integration, and responsive design across all breakpoints. Team project using **Agile** methodologies.
+
+🔗 [**GitHub Repository**](https://github.com/tetiana01kovpak/QuantumJS)
+
+---
+
+## 💼 Work Experience
+
+**BeHealthy, Kyiv** — Webmaster & Store Manager *(2018 – Present)*  
+Managed a WordPress-based health supplements store. Increased online sales by **83%** through website optimization and improved product presentation.
+
+**Taniko j.d.o.o, Rijeka** — Freelance 3D Artist *(2022 – Present)*  
+Running own company delivering 3D product models, animations, and visual content for client websites using **Blender**, **After Effects**, and **DaVinci**.
+
+---
+
+## 🎓 Education
+
+**IT School GoIT** — Fullstack Developer *(2025 – 2026)*  
+**Interregional Academy of Personal Management** — Master's degree, International Economics & Finance *(2010 – 2014)*
+
+---
+
+## 🗣️ Languages
+
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-blue?style=for-the-badge) &nbsp;
+![English](https://img.shields.io/badge/English-Advanced-brightgreen?style=for-the-badge) &nbsp;
+![Russian](https://img.shields.io/badge/Russian-Native-blue?style=for-the-badge) &nbsp;
+![German](https://img.shields.io/badge/German-Intermediate-yellow?style=for-the-badge)
+
+---
+
+## 📫 How to reach me:
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetiana-kovpak/) &nbsp;
+[![email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tetianakovpak@gmail.com) &nbsp;
+[![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tetiana01kovpak)
+
+---
