@@ -66,6 +66,7 @@ ChillScape is a web application for discovering and viewing travel locations. Us
 
 🔗 [**GitHub Repository**](https://github.com/tetiana01kovpak/chillscape-frontend)
 🔗 [**Live Demo**](https://chillscape-frontend.vercel.app/)
+
 ---
 
 ## 🗣️ Languages
