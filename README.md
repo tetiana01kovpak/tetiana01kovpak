@@ -58,6 +58,8 @@ Full-stack application for creating, editing, deleting, and filtering personal n
 🔗 [**GitHub Repository**](https://github.com/tetiana01kovpak/nodejs-hw)
 🔗 [**Live Demo**](https://nodejs-hw-comi.onrender.com/)
 
+---
+
 ### ❆ Chillscape-frontend
 
 ChillScape is a web application for discovering and viewing travel locations. Users can browse and filter locations and, after logging in, and leave reviews using **Typescript** and **React**.
