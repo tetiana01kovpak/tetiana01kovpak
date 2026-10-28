@@ -24,6 +24,36 @@ Currently looking for a Fullstack Developer position where I can bring both my d
 
 ## 💻 Featured Projects
 
+### 💊 E-Pharmacy Client
+
+Full-stack **pharmacy e-commerce application** for browsing medicine, finding pharmacies, and managing a cart and checkout.  
+Built with **React**, **TypeScript**, **Redux Toolkit**, and **Vite**, with a **Node.js**, **Express**, and **MongoDB** backend. Features product search, category filtering, pagination, and JWT authentication with HTTP-only refresh cookies.
+
+🔗 [**GitHub Repository**](https://github.com/tetiana01kovpak/epharmacy_client)
+🔗 [**Live Demo**](https://e-pharmacy-client-j837.onrender.com/)
+
+---
+
+### ✈️ Travel Trip
+
+Full-stack **travel booking application** for exploring countries, towns, and activities, with interactive maps and printable QR-code tickets.  
+Built with **React**, **TypeScript**, **Tailwind CSS**, and **Leaflet**, with a **Next.js** REST API and **MongoDB**. Features simulated checkout, a Markdown blog, and an authenticated admin dashboard for managing bookings and destination content.
+
+🔗 [**GitHub Repository**](https://github.com/tetiana01kovpak/travel-trip)
+
+---
+
+### ❆ ChillScape
+
+Full-stack application for discovering and sharing travel locations. Users can browse and filter locations, create new places, and leave reviews after signing in.  
+Built with **Next.js**, **React**, and **TypeScript** on the frontend, with a **Node.js**, **Express**, and **MongoDB** backend. Features REST API integration, HTTP-only cookie authentication, and responsive layouts.
+
+🔗 [**Frontend Repository**](https://github.com/tetiana01kovpak/chillscape-frontend)
+🔗 [**Backend Repository**](https://github.com/tetiana01kovpak/chillscape-backend)
+🔗 [**Live Demo**](https://chillscape-frontend.vercel.app/)
+
+---
+
 ### 🌱 Habbit Garden
 Interactive **3D habit tracker** where each habit grows as a unique procedurally generated plant in a WebGL garden scene.  
 Built with **Three.js**, **JavaScript**, and **Vite**. Features procedural generation of five plant types, dynamic lighting, raycasting interaction, and streak-based visual feedback. Deployed via **GitHub Actions** CI/CD.
@@ -57,36 +87,6 @@ Full-stack application for creating, editing, deleting, and filtering personal n
 
 🔗 [**GitHub Repository**](https://github.com/tetiana01kovpak/nodejs-hw)
 🔗 [**Live Demo**](https://nodejs-hw-comi.onrender.com/)
-
----
-
-### 💊 E-Pharmacy Client
-
-Full-stack **pharmacy e-commerce application** for browsing medicine, finding pharmacies, and managing a cart and checkout.  
-Built with **React**, **TypeScript**, **Redux Toolkit**, and **Vite**, with a **Node.js**, **Express**, and **MongoDB** backend. Features product search, category filtering, pagination, and JWT authentication with HTTP-only refresh cookies.
-
-🔗 [**GitHub Repository**](https://github.com/tetiana01kovpak/epharmacy_client)
-🔗 [**Live Demo**](https://e-pharmacy-client-j837.onrender.com/)
-
----
-
-### ✈️ Travel Trip
-
-Full-stack **travel booking application** for exploring countries, towns, and activities, with interactive maps and printable QR-code tickets.  
-Built with **React**, **TypeScript**, **Tailwind CSS**, and **Leaflet**, with a **Next.js** REST API and **MongoDB**. Features simulated checkout, a Markdown blog, and an authenticated admin dashboard for managing bookings and destination content.
-
-🔗 [**GitHub Repository**](https://github.com/tetiana01kovpak/travel-trip)
-
----
-
-### ❆ ChillScape
-
-Full-stack application for discovering and sharing travel locations. Users can browse and filter locations, create new places, and leave reviews after signing in.  
-Built with **Next.js**, **React**, and **TypeScript** on the frontend, with a **Node.js**, **Express**, and **MongoDB** backend. Features REST API integration, HTTP-only cookie authentication, and responsive layouts.
-
-🔗 [**Frontend Repository**](https://github.com/tetiana01kovpak/chillscape-frontend)
-🔗 [**Backend Repository**](https://github.com/tetiana01kovpak/chillscape-backend)
-🔗 [**Live Demo**](https://chillscape-frontend.vercel.app/)
 
 ---
 
